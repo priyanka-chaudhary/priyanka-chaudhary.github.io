@@ -82,34 +82,34 @@ analytics:
 author:
   name             : "Priyanka Chaudhary"
   avatar           : "portfolio.jpg"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Computer Vision and Machine Learning Sudent and Enthusiast"
+  location         : "Zürich
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "priyanka.chaudhary18@gmail.com
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "https://www.facebook.com/priyanka.chaudhary1906"
   foursquare       :
-  github           : "academicpages"
+  github           : "priyanka-chaudhary"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/pchaudha/"
+  orcid            : #http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : "https://stackoverflow.com/users/5687380/priyanka-chaudhary?tab=topactivity"
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
