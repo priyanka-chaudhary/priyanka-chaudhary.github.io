@@ -6,20 +6,20 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   :"en-US"
-title                    :"Priyanka Chaudhary"
-title_separator          :"-"
-name                     :&name "Your Name"
-description              :&description "personal description"
-url                      :https://priyanka-chaudhary.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  :"" # the subpath of your site, e.g. "/blog"
-repository               :"priyanka-chaudhary/priyanka-chaudhary.github.io"
-#teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
-breadcrumbs              :false # true, false (default)
-words_per_minute         :160
-future                   :true
-read_more                :"disabled" # if enabled, adds "Read more" links to excerpts
-talkmap_link             :false #change to true to add link to talkmap on talks page
+locale                   : "en-US"
+title                    : "Sumit Dugar"
+title_separator          : "-"
+name                     : &name "Sumit Dugar"
+description              : &description "MSc Technical University of Munich"
+url                      : https://dugarsumit.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
+repository               : "dugarsumit/dugarsumit.github.io"
+teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+breadcrumbs              : false # true, false (default)
+words_per_minute         : 160
+future                   : true
+read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
+talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
@@ -80,41 +80,38 @@ analytics:
 
 # Site Author
 author:
-  name             :"Priyanka Chaudhary"
-  avatar           :"portfolio.jpg"
-  bio              :"Computer Vision and Machine Learning Sudent and Enthusiast"
-  location         :"Zürich
-  #employer         :
-  pubmed           :"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    :"http://yourfullgooglescholarurl.com"
-  email            :"priyanka.chaudhary18@gmail.com
-  #researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  #uri              :
-  #bitbucket        :
-  #codepen          :
-  #dribbble         :
-  #flickr           :
-  facebook         :"https://www.facebook.com/priyanka.chaudhary1906"
-  #foursquare       :
-  github           :"priyanka-chaudhary"
-  #google_plus      :
-  #keybase          : #
-  #instagram        :
-  #impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  #lastfm           :
-  linkedin         :"https://www.linkedin.com/in/pchaudha/"
-  #orcid            : #http://orcid.org/yourorcidurl"
-  #pinterest        :
-  #soundcloud       :
-  stackoverflow    :"https://stackoverflow.com/users/5687380/priyanka-chaudhary?tab=topactivity"
-  #steam            :
-  #tumblr           :
-  #twitter          : #replacethistwitterhandle"
-  #vine             :
-  #weibo            :
-  #xing             :
-  #youtube          :
-  #wikipedia        :
+  name             : "Sumit Dugar"
+  avatar           : "profile.jpg"
+  bio              : "Java, Python, C++, Tensorflow, PyTorch, AWS, Ansible, Hibernate, Spring, MongoDB, MySQL, Jenkins, Docker, Tomcat, Flask"
+  location         : "Munich"
+  employer         : "Technical University of Munich"
+  # googlescholar    : 
+  email            : "dugar.sumit1990@gmail.com"
+  # uri              :
+  # bitbucket        :
+  # codepen          :
+  # dribbble         :
+  # flickr           :
+  facebook         : "dugarsumit1990"
+  # foursquare       :
+  github           : "dugarsumit"
+  # google_plus      :
+  # keybase          :
+  instagram        : "stills.png"
+  # lastfm           :
+  linkedin         : "sumit-dugar-86872654/"
+  # orcid            : "http://orcid.org/yourorcidurl"
+  # pinterest        :
+  # soundcloud       :
+  # stackoverflow    : # http://stackoverflow.com/users/123456/username
+  # steam            :
+  # tumblr           :
+  # twitter          : "replacethistwitterhandle"
+  # vine             :
+  # weibo            :
+  # xing             :
+  # youtube          :
+  # wikipedia        :
 
 
 # Reading Files
@@ -129,23 +126,22 @@ exclude:
   - .bundle
   - .jekyll-assets-cache
   - .sass-cache
-  - CHANGELOG
+  - assets/js/plugins
+  - assets/js/_main.js
+  - assets/js/vendor
   - Capfile
+  - CHANGELOG
+  - config
   - Gemfile
   - Gruntfile.js
-  - LICENSE
-  - README
-  - Rakefile
-  - assets/js/_main.js
-  - assets/js/plugins
-  - assets/js/vendor
-  - config
   - gulpfile.js
+  - LICENSE
   - log
   - node_modules
   - package.json
+  - Rakefile
+  - README
   - tmp
-  - vendor
 keep_files:
   - .git
   - .svn
@@ -187,6 +183,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  projects:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -199,8 +198,8 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: true
-      share: true
+      comments: false
+      share: false
       related: true
   # _pages
   - scope:
@@ -216,8 +215,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
-      comments: true
+      share: false
+      comments: false
   # _publications
   - scope:
       path: ""
@@ -225,8 +224,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
-      comments: true
+      share: false
+      comments: false
   # _portfolio
   - scope:
       path: ""
@@ -234,8 +233,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
-      comment: true
+      share: false
+      comment: false
   # _talks
   - scope:
       path: ""
@@ -243,7 +242,15 @@ defaults:
     values:
       layout: talk
       author_profile: true
-      share: true
+      share: false
+  # projects
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: talk
+      author_profile: true
+      share: false
 
 # Sass/SCSS
 sass:
