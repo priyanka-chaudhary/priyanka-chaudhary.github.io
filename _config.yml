@@ -103,18 +103,18 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/pchaudha/"
-  orcid            : #http://orcid.org/yourorcidurl"
-  pinterest        :
-  soundcloud       :
+  #orcid            : #http://orcid.org/yourorcidurl"
+  #pinterest        :
+  #soundcloud       :
   stackoverflow    : "https://stackoverflow.com/users/5687380/priyanka-chaudhary?tab=topactivity"
-  steam            :
-  tumblr           :
-  twitter          : #replacethistwitterhandle"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
+  #steam            :
+  #tumblr           :
+  #twitter          : #replacethistwitterhandle"
+  #vine             :
+  #weibo            :
+  #xing             :
+  #youtube          :
+  #wikipedia        :
 
 
 # Reading Files
