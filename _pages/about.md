@@ -7,14 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi there! I am a PhD student and Scienctific Assistant at ETH Zürich in Photogrammetry and Remote Sensing(PRS)[here](https://prs.igp.ethz.ch/). I 
-Priyanka is a PhD student at ETH Zurich and has joined the EcoVision Lab in 2018. She completed her Masters in Informatics from Technische Universität München in 2018. After doing her Master Thesis at EcoVision Lab on the topic Flood estimation through semantic image interpretation in 2017-2018, she is continuing her work on the project. The main goal of the project is to use images collected from social media of various flood events and use them to quantify flood. For quantification of floods, different objects of known dimensions which are partially submerged in flood water are used. Her research interests are in the areas of computer vision, machine learning and natural language processing.
+Hi there! I am a PhD student and Scienctific Assistant at ETH Zürich in Photogrammetry and Remote Sensing department[(PRS)](https://prs.igp.ethz.ch/). I joined the EcoVision Lab in 2018. I completed my Masters in Informatics from Technische Universität München in 2018. After doing her Master Thesis at EcoVision Lab on the topic Flood estimation through semantic image interpretation in 2017-2018, I am continuing my work on the project. The main goal of the project is to use images collected from social media of various flood events and use them to quantify flood. For quantification of floods, different objects of known dimensions which are partially submerged in flood water are used.
 
 **BackGround**
 
-I completed my Bachelors from Delhi Technological University (New Delhi) in 2013. Following that, I worked for an year at McAfee as a Software Developer in Test, 
-where I was involved with the test and development of a whitelisting product for Windows Operating Systems. This was followed 
-by two years at Epic Systems, where I worked as a Software Developer on several web based applications.
+I completed my Bachelors from Delhi Technological University (New Delhi) in 2013. Following that, I worked for two years in Samsung Research Institute as Software Development Engineer. I was respo
 
 **Interests**
 
@@ -27,3 +24,4 @@ I am also interested in learning control policies for a dynamic environment that
 especially useful when extrinsic rewards are sparse or unavailable for a given task (such as exploration).
 
 Apart from the above, I enjoy doodling and have recently found a fondness for writing. I started with small stuff - like writing about
+Her research interests are in the areas of computer vision, machine learning and natural language processing.
