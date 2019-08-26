@@ -84,24 +84,24 @@ author:
   avatar           :"portfolio.jpg"
   bio              :"Computer Vision and Machine Learning Sudent and Enthusiast"
   location         :"Zürich
-  employer         :
+  #employer         :
   pubmed           :"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    :"http://yourfullgooglescholarurl.com"
   email            :"priyanka.chaudhary18@gmail.com
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
+  #researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  #uri              :
+  #bitbucket        :
+  #codepen          :
+  #dribbble         :
+  #flickr           :
   facebook         :"https://www.facebook.com/priyanka.chaudhary1906"
-  foursquare       :
+  #foursquare       :
   github           :"priyanka-chaudhary"
-  google_plus      :
-  keybase          : #
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
+  #google_plus      :
+  #keybase          : #
+  #instagram        :
+  #impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  #lastfm           :
   linkedin         :"https://www.linkedin.com/in/pchaudha/"
   #orcid            : #http://orcid.org/yourorcidurl"
   #pinterest        :
