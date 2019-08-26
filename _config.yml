@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sumit Dugar"
+title                    : "Priyanka Chaudhary"
 title_separator          : "-"
-name                     : &name "Sumit Dugar"
-description              : &description "MSc Technical University of Munich"
-url                      : https://dugarsumit.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Priyanka Chaudhary"
+description              : &description "PhD Student at ETH Zürich"
+url                      : https://priyanka-chaudhary.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "dugarsumit/dugarsumit.github.io"
+repository               : "priyanka-chaudhary/priyanka-chaudhary.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,26 +80,26 @@ analytics:
 
 # Site Author
 author:
-  name             : "Sumit Dugar"
-  avatar           : "profile.jpg"
+  name             : "Priyanka Chaudhary"
+  avatar           : "portfolio.jpg"
   bio              : "Java, Python, C++, Tensorflow, PyTorch, AWS, Ansible, Hibernate, Spring, MongoDB, MySQL, Jenkins, Docker, Tomcat, Flask"
-  location         : "Munich"
-  employer         : "Technical University of Munich"
+  location         : "Zürich"
+  employer         : "ETH Zürich"
   # googlescholar    : 
-  email            : "dugar.sumit1990@gmail.com"
+  email            : "priyanka.chaudhary18@gmail.com"
   # uri              :
   # bitbucket        :
   # codepen          :
   # dribbble         :
   # flickr           :
-  facebook         : "dugarsumit1990"
+  facebook         : "priyanka.chaudhary1906"
   # foursquare       :
-  github           : "dugarsumit"
+  github           : "priyanka-chaudhary"
   # google_plus      :
   # keybase          :
   instagram        : "stills.png"
   # lastfm           :
-  linkedin         : "sumit-dugar-86872654/"
+  linkedin         : "in/pchaudha/"
   # orcid            : "http://orcid.org/yourorcidurl"
   # pinterest        :
   # soundcloud       :
