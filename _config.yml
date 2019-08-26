@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Priyanka Chaudhary"
   avatar           : "portfolio.jpg"
-  bio              : "Java, Python, C++, Tensorflow, PyTorch, AWS, Ansible, Hibernate, Spring, MongoDB, MySQL, Jenkins, Docker, Tomcat, Flask"
+  bio              : "Computer Vision and Machine Learning Student and Enthusiast"
   location         : "Zürich"
   employer         : "ETH Zürich"
   # googlescholar    : 
@@ -99,11 +99,11 @@ author:
   # keybase          :
   instagram        : "stills.png"
   # lastfm           :
-  linkedin         : "in/pchaudha/"
+  linkedin         : "pchaudha/"
   # orcid            : "http://orcid.org/yourorcidurl"
   # pinterest        :
   # soundcloud       :
-  # stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : "https://stackoverflow.com/users/5687380/priyanka-chaudhary?tab=topactivity"
   # steam            :
   # tumblr           :
   # twitter          : "replacethistwitterhandle"
