@@ -1,9 +1,9 @@
 ---
 title: "Flood-water Level Estimation from Social Media Images"
-collection: publications
+collection: ISPRS Annals
 permalink: /publication/2018-06-28-seminal-deep-learning-sequence-nlp
 excerpt: 'Keywords: Object detection, Deep learning, Image segmentation, Flood estimation, Instance segmentation, Flood detection'
-date: 2018-05-29
+date: 2019-05-29
 paperurl: 'https://www.isprs-ann-photogramm-remote-sens-spatial-inf-sci.net/IV-2-W5/5/2019/'
 ---
 *Abstract*
