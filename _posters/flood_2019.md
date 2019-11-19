@@ -5,8 +5,8 @@ permalink: /projects/flood_water_level
 type: "Master Thesis"
 venue: "Chair of Computer Graphics and Visualization, TUM"
 location: "Zurich"
-img: http://neha191091.github.io/files/rgb-depth.jpg
-img_pdf: http://neha191091.github.io/files/rgb-depth.pdf
+img: https://priyanka-chaudhary.github.io/files/flood_poster_isprs.jpg
+img_pdf: https://priyanka-chaudhary.github.io/files/poster_doctorand_2019.pdf
 ---
 
 Depth images are a rich source information about their subjects and have been found to be
