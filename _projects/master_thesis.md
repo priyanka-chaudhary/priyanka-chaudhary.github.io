@@ -13,5 +13,4 @@ We propose a method to quantify flood water from images gathered from social med
 1. images are cluttered due to presence of different classes;
 2. objects of different classes present in various scales depending on the distance at which the image was taken;
 3. detection of occluded objects as they are partially submerged in flood water. Also, high intra-class variability of instances of objects like buildings or houses and cars.
-
-We model this problem on two levels. For the first part, we train a network to give per image floodwater-level. For second part, we train a model to give more finer classification. For every instance of an object in an image, the model will predict the class of the object and level of flood. Through this project we also contribute a dataset of flood images gleaned from social media.
+<p>We model this problem on two levels. For the first part, we train a network to give per image floodwater-level. For second part, we train a model to give more finer classification. For every instance of an object in an image, the model will predict the class of the object and level of flood. Through this project we also contribute a dataset of flood images gleaned from social media.
