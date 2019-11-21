@@ -5,7 +5,7 @@ permalink: /projects/dml
 type: "Advanced Practical Course"
 venue: ",Chair of BioInformatics TU München"
 location: "München"
-workspace: https://gitlab.ethz.ch/pchaudha/tum-dml
+code: https://gitlab.ethz.ch/pchaudha/tum-dml
 final ppt: https://gitlab.ethz.ch/pchaudha/tum-dml/tree/master/Week%2010_%20Final%20Presentation
 ---
 
