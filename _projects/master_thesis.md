@@ -1,3 +1,14 @@
+---
+title: "Flood-Water Estimation through Semantic Image Interpretation"
+collection: projects
+permalink: /projects/master_thesis
+type: "Master Thesis Project"
+venue: "EcoVision Lab,PRS Group,ETH Zürich; Computer Vision Group, TU München"
+location: "Zürich, München"
+code: https://gitlab.ethz.ch/pchaudha/flood_level_instance
+report: https://gitlab.ethz.ch/pchaudha/master-thesis
+---
+
 We propose a method to quantify flood water from images gathered from social media. Quantifying flood height by looking just at images is a difficult task. Therefore, in this work we are using common objects of known dimension which are partially submerged in flood water to quantify flood height. There are various factors which makes this task difficult:
 
 1. images are cluttered due to presence of different classes;
