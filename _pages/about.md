@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi there! I am a PhD student and Scienctific Assistant at ETH Zürich in Photogrammetry and Remote Sensing department[(PRS)](https://prs.igp.ethz.ch/). I joined the EcoVision Lab in 2018. I completed my Masters in Informatics from Technische Universität München in 2018. After doing her Master Thesis at EcoVision Lab on the topic Flood estimation through semantic image interpretation in 2017-2018, I am continuing my work on the project. The main goal of the project is to use images collected from social media of various flood events and use them to quantify flood. For quantification of floods, different objects of known dimensions which are partially submerged in flood water are used.
+Hi there! I am a PhD student and Scienctific Assistant at ETH Zürich in Photogrammetry and Remote Sensing department[(PRS)](https://prs.igp.ethz.ch/). I joined the EcoVision Lab in 2018. I completed my Masters in Informatics from Technische Universität München in 2018. After doing my Master Thesis at EcoVision Lab on the topic Flood estimation through semantic image interpretation in 2017-2018, I am continuing my work on the project. The main goal of the project is to use images collected from social media of various flood events and use them to quantify flood. For quantification of floods, different objects of known dimensions which are partially submerged in flood water are used.
 
 **BackGround**
 
