@@ -11,17 +11,13 @@ Hi there! I am a PhD student and Scienctific Assistant at ETH Zürich in Photogr
 
 **BackGround**
 
-I completed my Bachelors from Delhi Technological University (New Delhi) in 2013. Following that, I worked for two years in Samsung Research Institute as Software Development Engineer. I was respo
+I completed my Bachelors from Delhi Technological University (New Delhi) in 2013. Following that, I worked for two years in Samsung Research Institute as Software Development Engineer. I worked on Android kernel platform and was part of System Memory and Tools Android File System Team. After that I joined TU München for my Masters in Informatics. I completed my Masters in September 2018 and following that I joined in November 2018, ETH Zürich as PhD student and research assistant. 
 
 **Interests**
 
-My *academic* interests mostly lie in inferring more about the physical world (and creating a model of the same) using machine 
-learning architectures. Such a model has several applications - it can help answer pertinent questions regarding the causes of 
-any phenomena that occur in their scope, help learn a policy that can output controls to drive the physical environment to a 
-goal state that satisfies desired properties, or given a chain of previous observations, help predict what would happen next.
+During my Masters studies I developed an interest in the field of Computer Vision and Machine learning. Due to drastic climate change, there is a need for research in natural disasters and global challenges like Floods, Poverty, Tsunamis. I believe that academic research can have remarkable influence on such problems. 
 
-I am also interested in learning control policies for a dynamic environment that utilize intrinsic motivation techniques. This is 
-especially useful when extrinsic rewards are sparse or unavailable for a given task (such as exploration).
+I also have considerable interest in natural language understanding topics like sentiment analysis, language modelling etc and have taken Data Mining Lab during my Masters and also Natural Language Understanding lecture and participated in the project for more experience and understanding of the subject. 
 
-Apart from the above, I enjoy doodling and have recently found a fondness for writing. I started with small stuff - like writing about
-Her research interests are in the areas of computer vision, machine learning and natural language processing.
+Apart from the above, I enjoy travelling, reading books and have recently found a fondness for cooking. 
+
