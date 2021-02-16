@@ -1,14 +1,24 @@
 ---
 title: "Water level prediction from social media images with a multi-task ranking approach"
-collection: 'ISPRS Journal of Photogrammetry and Remote Sensing, Volume 167, 2020, Pages 252-262, ISSN 0924-2716'
-venue: 'ISPRS Annals'
+collection: publications
+venue: 'ISPRS Journal of Photogrammetry and Remote Sensing, Volume 167, 2020, Pages 252-262, ISSN 0924-2716'
 permalink: /publication/water_level_ranking_approach
-excerpt: 'In the event of a flood, being able to build accurate flood level maps is essential for supporting emergency plan operations. In order to build such maps, it is important to collect observations from the disaster area. Social media platforms can be useful sources of information in this case, as people located in the flood area tend to share text and pictures depicting the current situation. Developing an effective and fully automatized method able to retrieve data from social media and extract useful information in real-time is crucial for a quick and proper response to these catastrophic events. In this paper, we propose a method to quantify flood-water from images gathered from social media. If no prior information about the zone where the picture was taken is available, one possible way to estimate the flood level consists of assessing how much the objects appearing in the image are submerged in water. There are various factors that make this task difficult: i) the precise size of the objects appearing in the image might not be known; ii) flood-water appearing in different zones of the image scene might have different height; iii) objects may be only partially visible as they can be submerged in water. In order to solve these problems, we propose a method that first locates selected classes of objects whose sizes are approximately known, then, it leverages this property to estimate the water level. To prove the validity of this approach, we first build a flood-water image dataset, then we use it to train a deep learning model. We finally show the ability of our trained model to recognize objects and at the same time predict correctly flood-water level.
-Keywords: Object detection, Deep learning, Image segmentation, Flood estimation, Instance segmentation, Flood detection'
+excerpt: 'Floods are among the most frequent and catastrophic natural disasters and affect millions of people worldwide. It is important to create accurate flood maps to plan (offline) and conduct (real-time) flood mitigation and flood rescue operations. Arguably, images collected from social media can provide useful information for that task, which would otherwise be unavailable. We introduce a computer vision system that estimates water depth from social media images taken during flooding events, in order to build flood maps in (near) real-time. We propose a multi-task (deep) learning approach, where a model is trained using both a regression and a pairwise ranking loss. Our approach is motivated by the observation that a main bottleneck for image-based flood level estimation is training data: it is difficult and requires a lot of effort to annotate uncontrolled images with the correct water depth. We demonstrate how to efficiently learn a predictor from a small set of annotated water levels and a larger set of weaker annotations that only indicate in which of two images the water level is higher, and are much easier to obtain. Moreover, we provide a new dataset, named DeepFlood, with 8145 annotated ground-level images, and show that the proposed multi-task approach can predict the water level from a single, crowd-sourced image with ≈11 cm root mean square error.'
+Keywords: 'Object detection, Deep learning, Image segmentation, Flood estimation, Learning to rank, Flood detection'
 date: 2020-07-01
-citation: 'Chaudhary, P., D’Aronco, S., Moy de Vitry, M., Leitão, J. P., and Wegner, J. D.: FLOOD-WATER LEVEL ESTIMATION FROM SOCIAL MEDIA IMAGES, ISPRS Ann. Photogramm. Remote Sens. Spatial Inf. Sci., IV-2/W5, 5-12, https://doi.org/10.5194/isprs-annals-IV-2-W5-5-2019, 2019.'
-paperurl: 'https://doi.org/10.1016/j.isprsjprs.2020.07.003.'
+citation: '@article{CHAUDHARY2020252,
+title = {Water level prediction from social media images with a multi-task ranking approach},
+journal = {ISPRS Journal of Photogrammetry and Remote Sensing},
+volume = {167},
+pages = {252-262},
+year = {2020},
+issn = {0924-2716},
+doi = {https://doi.org/10.1016/j.isprsjprs.2020.07.003},
+url = {https://www.sciencedirect.com/science/article/pii/S0924271620301842},
+author = {P. Chaudhary and S. D’Aronco and J.P. Leitão and K. Schindler and J.D. Wegner}}'
+paperurl: 'https://doi.org/10.1016/j.isprsjprs.2020.07.003'
 ---
+
 
 *Abstract*
 
