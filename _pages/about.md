@@ -15,7 +15,9 @@ I completed my Bachelors from Delhi Technological University (New Delhi) in 2013
 
 **Interests**
 
-During my Masters studies I developed an interest in the field of Computer Vision and Machine learning. Due to drastic climate change, there is a need for research in natural disasters and global challenges like Floods, Poverty, Tsunamis. I believe that academic research can have remarkable influence on such problems. 
+During my Master's studies, I developed an interest in the field of Computer Vision and Machine learning. Due to drastic climate change, there is a need for research in natural disasters and global challenges like Floods, Poverty, Tsunamis. I believe that academic research can have a remarkable influence on such problems. At EcoVision Lab, I work on one such project about Floods. During the first two years of my PhD we worked on how to quantify flood height using images collected from social media of various flood events.
+
+Presently we are working on the research question, how can deep learning and physically-based hydraulic models be combined so that it includes physical constraints representations? Instead of learning all evidence from scratch, we aim at tightly integrating deep learning and physically-based hydraulic modelling to achieve the best of both worlds: physical interpretability, outputs with well-calibrated uncertainty estimates, and the (fast) predictive power of neural networks.
 
 I also have considerable interest in natural language understanding topics like sentiment analysis, language modelling etc and have taken Data Mining Lab during my Masters and also Natural Language Understanding lecture and participated in the project for more experience and understanding of the subject. 
 
